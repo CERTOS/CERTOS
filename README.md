@@ -1,4 +1,4 @@
-# Awesome GitHub profiles
+# Shreyansh Kumar Sinha
 
 
 <p align="center">
