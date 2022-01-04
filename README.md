@@ -1,7 +1,5 @@
 # Awesome GitHub profiles
 
-![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
-
 
 <p align="center">
   <a href="https://github.com/CERTOS" target="_blank" rel="noopener noreferrer">
