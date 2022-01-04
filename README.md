@@ -2,8 +2,6 @@
 
 ![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
-List of GitHub profiles that have awesome customization, that you can use for inspiration.\
-Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) with your suggestions of awesome GitHub profiles.
 
 <p align="center">
   <a href="https://github.com/CERTOS" target="_blank" rel="noopener noreferrer">
