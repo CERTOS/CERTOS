@@ -3,6 +3,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=certos&label=Profile%20views&color=0e75b6&style=flat" alt="certos" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=certos&theme=onedark" alt="certos" /></a> </p>
 
+- 🧑‍💻 I’m currently working on **recomandation engines and neural network**
+
+- ✍🏽 I’m currently learning **financial aspects of machine learning**
+
+- 👯 I’m looking to collaborate on **a research based project**
+
+- 💬 Ask me about **machine learning, neural networks, data analysis, python**
+
+- 📫 How to reach me **shreyansh.certos@outlook.com**
+
+- ⚡ Fun fact **I love travelling**
+
 
 <p align="center">
   <a href="https://github.com/CERTOS" target="_blank" rel="noopener noreferrer">
