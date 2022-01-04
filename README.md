@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@certos" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dev_to_icon_136699.png" alt="@certos" height="55" width="55" /></a>
-<a href="https://linkedin.com/in/shreyansh-sinha" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/138-1385632_linkedin-stock-ticker-symbol-linkedin-icon-dark-grey.png" alt="shreyansh-sinha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreyansh-sinha" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/dark-gray/linkedin-3-xxl.png" alt="shreyansh-sinha" height="30" width="40" /></a>
 <a href="https://kaggle.com/verenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="verenko" height="30" width="40" /></a>
 <a href="https://instagram.com/_shreyansh_sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shreyansh_sinha" height="30" width="40" /></a>
 </p>
