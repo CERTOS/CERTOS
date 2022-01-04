@@ -1,4 +1,6 @@
 # Shreyansh Kumar Sinha
+<h3 align="center">A passionate developer, analyst and learner</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=certos&label=Profile%20views&color=0e75b6&style=flat" alt="certos" /> </p>
 
 
 <p align="center">
