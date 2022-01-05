@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/@certos" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dev_to_icon_136699.png" alt="@certos" height="55" width="55" /></a>
 <a href="https://linkedin.com/in/shreyansh-sinha" target="blank"><img align="center" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Squircle-Dark-560x560.png" alt="shreyansh-sinha" height="35" width="40" /></a>
-<a href="https://kaggle.com/verenko" target="blank"><img align="center" src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/png%20logo.png" alt="KAGGLE" height="30" width="40" /></a>
+<a href="https://kaggle.com/verenko" target="blank"><img align="center" src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/png%20logo.png" alt="KAGGLE" height="30" width="60" /></a>
 <a href="https://instagram.com/_shreyansh_sinha" target="blank"><img align="center" src="https://www.pngplay.com/wp-content/uploads/13/Black-And-White-Instagram-Logo-PNG-Photos.png" alt="_shreyansh_sinha" height="45" width="40" /></a>
 </p>
 
