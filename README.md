@@ -28,10 +28,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CERTOS/CERTOS/08453545efe2ca0d51be5b2bcc02ee85935c6142/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/142-1425229_aws-amazon-web-services-amazon-web-services-logo.png" alt="aws" width="90" height="40"/> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CERTOS/CERTOS/08453545efe2ca0d51be5b2bcc02ee85935c6142/django-original.svg" alt="django" width="60" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CERTOS/CERTOS/08453545efe2ca0d51be5b2bcc02ee85935c6142/django-original.svg" alt="docker" width="70" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/CERTOS/CERTOS/blob/main/1078464-removebg-preview.png?raw=true" alt="flask" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.tblsft.com/sites/default/files/media/tableau-logo-transparent-fff.png" alt="tableau" width="100" height="50"/> </a>
+<a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.tblsft.com/sites/default/files/media/tableau-logo-transparent-fff.png" alt="tableau" width="90" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngset.com/images/background-mysql-logo-php-mysql-symbol-text-dynamite-emblem-transparent-png-1564783.png" alt="mysql" width="40" height="40"/> </a>
 
