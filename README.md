@@ -31,7 +31,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.tblsft.com/sites/default/files/media/tableau-logo-transparent-fff.png" alt="tableau" width="90" height="40"/> </a>
+<a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.tblsft.com/sites/default/files/media/tableau-logo-transparent-fff.png" alt="tableau" width="100" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngset.com/images/background-mysql-logo-php-mysql-symbol-text-dynamite-emblem-transparent-png-1564783.png" alt="mysql" width="40" height="40"/> </a>
 
