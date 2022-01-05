@@ -35,8 +35,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngset.com/images/background-mysql-logo-php-mysql-symbol-text-dynamite-emblem-transparent-png-1564783.png" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 
-<a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.tblsft.com/sites/default/files/media/tableau-logo-transparent-fff.png" alt="tableau" width="90" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office?rtc=1/" target="_blank" rel="noreferrer"> <img src="https://github.com/CERTOS/CERTOS/blob/main/MS-excel-logo-675.jpg?raw=true" alt="excel" width="40" height="40"/> </a>
+<a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.tblsft.com/sites/default/files/media/tableau-logo-transparent-fff.png" alt="tableau" width="100" height="40"/> </a>
+
 </p>
 
 <p align="center">
