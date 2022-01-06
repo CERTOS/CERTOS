@@ -37,7 +37,7 @@
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/CERTOS/CERTOS/blob/main/vscode.jpg?raw=true" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office?rtc=1/" target="_blank" rel="noreferrer"> <img src="https://github.com/CERTOS/CERTOS/blob/main/MS-excel-logo-675.jpg?raw=true" alt="excel" width="40" height="40"/> </a>
-<a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.tblsft.com/sites/default/files/media/tableau-logo-transparent-fff.png" alt="tableau" width="100" height="40"/> </a>
+<a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/CERTOS/CERTOS/blob/main/tableau_logo-removebg-preview.png?raw=true" alt="tableau" width="40" height="40"/> </a>
 
 </p>
 <br></br>
