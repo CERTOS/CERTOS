@@ -42,7 +42,7 @@
 </p>
 <br></br>
 <br></br>
-<center><p><a href="https://www.buymeacoffee.com/CERTOS"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CERTOS" /></a><a href="https://ko-fi.com/certos"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="certos" /></a></p><br><br></center>
+<p align="center"><a href="https://www.buymeacoffee.com/CERTOS"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CERTOS" /></a><a href="https://ko-fi.com/certos"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="certos" /></a></p><br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=certos&show_icons=true&locale=en" alt="certos" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=certos&" alt="certos" /></p>
