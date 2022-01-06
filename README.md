@@ -41,9 +41,11 @@
 
 </p>
 
+<p><a href="https://www.buymeacoffee.com/CERTOS"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CERTOS" /></a><a href="https://ko-fi.com/certos"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="certos" /></a></p><br><br>
+
 <p align="center">
-  <a href="https://github.com/CERTOS" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <a href="https://www.buymeacoffee.com/CERTOS" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
  </a>
   <a href="https://github.com/CERTOS" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
@@ -59,3 +61,7 @@
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
  </a>
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/CERTOS"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CERTOS" /></a><a href="https://ko-fi.com/certos"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="certos" /></a></p><br><br>
+
