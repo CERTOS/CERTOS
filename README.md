@@ -44,6 +44,6 @@
 <br></br>
 <p align="center"><a href="https://www.buymeacoffee.com/CERTOS"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CERTOS" /></a><a href="https://ko-fi.com/certos"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="certos" /></a></p><br><br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=certos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="certos" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=certos&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="certos" /></p>
 <p align="center">
  <h4 align="center">Visitor count<br><img src="https://profile-counter.glitch.me/certos/count.svg" /></p>
