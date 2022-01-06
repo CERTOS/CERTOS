@@ -36,7 +36,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/CERTOS/CERTOS/blob/main/vscode.jpg?raw=true" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office?rtc=1/" target="_blank" rel="noreferrer"> <img src="https://github.com/CERTOS/CERTOS/blob/main/MS-excel-logo-675.jpg?raw=true" alt="excel" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office?rtc=1/" target="_blank" rel="noreferrer"> <img src="https://github.com/CERTOS/CERTOS/blob/main/png-clipart-microsoft-excel-app-store-spreadsheet-microsoft-text-logo-removebg-preview.png?raw=true" alt="excel" width="40" height="40"/> </a>
 <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CERTOS/CERTOS/d113cff8a2c7f0f039bda7c46ec4882a48887e80/tableau-software.svg" alt="tableau" width="60" height="40"/> </a>
 
 </p>
